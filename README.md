@@ -3,13 +3,21 @@ PC Assistant can:
 🎤 Listen to voice commands
 
 💬 Chat like an AI chatbot
+
 🔍 Perform real-time web searches
+
 🖥 Control PC applications
+
 🗂 Store conversation history
+
 🧠 Understand user intent
+
 🔊 Speak responses using TTS
+
 🎨 Generate AI images
+
 🖥 Run with a GUI interface
+
 ⚡ Use multi-threading for performance
 
 
