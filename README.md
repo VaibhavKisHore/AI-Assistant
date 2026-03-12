@@ -1,6 +1,7 @@
 PC Assistant can:
 
 🎤 Listen to voice commands
+
 💬 Chat like an AI chatbot
 🔍 Perform real-time web searches
 🖥 Control PC applications
