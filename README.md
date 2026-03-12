@@ -1,4 +1,4 @@
-PC Assistant can:
+This Project can:
 
 🎤 Listen to voice commands
 
